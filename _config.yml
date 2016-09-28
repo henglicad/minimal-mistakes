@@ -11,7 +11,7 @@ title                    : "Heng Li's personal website"
 title_separator          : "-"
 name                     : "Heng Li"
 description              : "An amazing website."
-url                      : "https://henglicad.github.io"
+url                      : "http://localhost:4000" #"https://henglicad.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "henglicad/henglicad.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :"henglli"
 facebook:
   username               :
   app_id                 :
@@ -77,30 +77,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Heng Li"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Software engineering researcher, electronic designer, amateur soccer player."
+  location         : "Waterloo, Canada"
+  email            : "<first_name><last_name>cad[at]gmail[dot]com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "henglicad"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "heng-li-cs"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "@henglli"
   vine             :
   weibo            :
   xing             :
