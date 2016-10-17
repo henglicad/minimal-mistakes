@@ -11,7 +11,8 @@ title                    : "Heng's Site"
 title_separator          : "-"
 name                     : "Heng Li"
 description              : "An amazing website."
-url                      : "http://hengli.info" #"https://henglicad.github.io""http://localhost:4000"
+#url                      : "http://hengli.info"
+url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "henglicad/henglicad.github.io"
 teaser                   : "default-teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -225,4 +226,16 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: development	
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true

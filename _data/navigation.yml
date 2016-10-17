@@ -12,3 +12,6 @@ main:
 
   - title: "BLOG"
     url: /
+
+  - title: "About"
+    url: /about/
