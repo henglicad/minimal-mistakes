@@ -1,17 +1,18 @@
 # main links links
 main:
 
-  - title: "CURRICULUM"
-    url: https://www.linkedin.com/in/heng-li-cs/
+#  - title: "CURRICULUM"
+#    url: https://www.linkedin.com/in/heng-li-cs/
 
-  - title: "PUBLICATIONS"
-    url: /
-
-  - title: "PROJECTS"
-    url: /
-
-  - title: "BLOG"
-    url: /
-
-  - title: "About"
+  - title: "About Me"
     url: /about/
+
+  - title: "Publications"
+    url: /
+
+  - title: "Projects"
+    url: /
+
+  - title: "Blog"
+    url: /
+
