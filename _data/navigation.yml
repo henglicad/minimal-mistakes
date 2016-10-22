@@ -3,8 +3,10 @@ main:
 
 #  - title: "CURRICULUM"
 #    url: https://www.linkedin.com/in/heng-li-cs/
+  - title: "Home"
+    url: /
 
-  - title: "About Me"
+  - title: "Biography"
     url: /about/
 
   - title: "Publications"
@@ -13,6 +15,6 @@ main:
   - title: "Projects"
     url: /
 
-  - title: "Blog"
+  - title: "Log"
     url: /
 
