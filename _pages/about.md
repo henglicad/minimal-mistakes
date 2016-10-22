@@ -12,4 +12,4 @@ He worked at [Synopsys](http://www.synopsys.com/home.aspx), the world leading so
 
 His research interests lie within Software Engineering, in particular, software log analysis, mining software repositories, and program analysis.
 
-For my detailed information please refer to my [**resume (download)**]({{ site.url }}/assets/Heng_Li_Resume_web.pdf).
+For his detailed information please refer to his [**resume (download)**]({{ site.url }}/assets/Heng_Li_Resume_web.pdf).
