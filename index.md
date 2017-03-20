@@ -8,9 +8,8 @@ Heng Li is a PhD student in [Dr. Ahmed E. Hassan](http://research.cs.queensu.ca/
 
 His research interests lie within Software Engineering and Data Mining, in particular:
 
-
 - Mining software repositories
-- Program analysis
-- Software log analysis
+- Empirical software engineering
+- Software log mining
 
-Sports are very important for him. He likes soccer the best, then jogging, badminton, biking, badminton, and swimming.
+Sports are very important for him. He likes soccer the best, then jogging, hiking, biking, badminton, and swimming.

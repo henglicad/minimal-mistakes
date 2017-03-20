@@ -6,15 +6,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Biography"
-    url: /about/
-
   - title: "Publications"
     url: /
 
-  - title: "Projects"
-    url: /
+#  - title: "Projects"
+#    url: /
 
-  - title: "Log"
-    url: /
+#  - title: "Log"
+#    url: /blog/
 
+  - title: "Biography"
+    url: /about/

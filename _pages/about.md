@@ -6,6 +6,8 @@ modified: 10-22-2016
 permalink: /about/
 ---
 
+Following is a brief biography about Heng Li. For his detailed information please refer to his [**résumé**]({{ site.url }}/assets/Heng_Li_Resume_web.pdf).
+
 Heng Li is a graduate student at the [Software Analysis and Intelligence Lab (SAIL)](http://sail.cs.queensu.ca/) 
 in the [School of Computing](http://www.cs.queensu.ca/) at [Queen's University](http://www.queensu.ca/) in Kingston, Canada.
 He is pursuing his PhD under the supervision of [Dr. Ahmed E. Hassan](http://research.cs.queensu.ca/~ahmed/home/).
@@ -20,5 +22,3 @@ He worked at [Synopsys](http://www.synopsys.com/home.aspx), the world leading so
 as a full-time R&D Engineer, before starting his PhD at Queen's University. 
 
 His research interests lie within Software Engineering and Data Mining, in particular, mining software repositories, program analysis, and software log analysis.
-
-For his detailed information please refer to his [**resume (download)**]({{ site.url }}/assets/Heng_Li_Resume_web.pdf).
